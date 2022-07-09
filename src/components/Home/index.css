@@ -1,0 +1,28 @@
+
+.main-app-container{
+   width: 80%;
+   margin: auto;
+   display: grid;
+   margin-top: 100px;
+}
+.cards{
+    padding: 20px;
+}
+   .parent-loader{
+    background-color:#fff;
+    position: fixed;
+    top: 20%;
+    left: 20%;
+    z-index: 9999;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    height: 50vh;
+    width: 60vw;
+  }
+
+  .main-heading{
+    text-align: center;
+  }
